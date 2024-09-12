@@ -1,0 +1,10 @@
+/* .event_map_container {
+  width: 80%;
+  height: 80%; /* Or any height you prefer */
+  /* position: relative; */
+/* } */ */
+
+.event_map {
+  width: 50%;
+  height: 50%;
+}
